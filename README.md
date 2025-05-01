@@ -18,12 +18,9 @@ A desktop-based Airline Reservation System built using **Java** and **JavaFX**, 
 - Scene Builder (for FXML)
 - Maven/Gradle (optional)
 
-## 📷 Screenshots
-> _Add screenshots later here if needed_
-
 ## 🧩 UML Diagram
-
-You can download or view the UML diagram in [PDF format here](UML class.pdf).
+You can download or view the UML diagram: 
+[UML class.pdf](https://github.com/user-attachments/files/20002377/UML.class.pdf)
 
 ## 📁 Project Structure
 - `App/` → Main application class and scene management  
