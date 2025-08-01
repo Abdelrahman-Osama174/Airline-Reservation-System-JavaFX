@@ -29,9 +29,6 @@ You can download or view the UML diagram:
 - `Entities/` → Data models (Airport, Flight, Aircraft...)  
 - `Resources/` → Images and icons  
 
-## 👥 Team Collaboration
-All team members collaborated equally on all features during the development process.
-
 ---
 
 ## 🚀 Getting Started
